@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Take Home</string>
+    <string name="button_search">Search</string>
+    <string name="hint_enter_gh_user_id">Enter a github user id</string>
+    <string name="error_fetching">Error fetching</string>
+    <string name="details_fragment_title">Repository details</string>
+    <string name="repo_id">Repository Id: %d</string>
+    <string name="repo_name">Repository name: %s</string>
+    <string name="repo_description">Description: %s</string>
+    <string name="repo_last_update">Last Update: %s</string>
+    <string name="repo_forks">Forks: %d</string>
+    <string name="repo_stars">Stars: %d</string>
+</resources>
